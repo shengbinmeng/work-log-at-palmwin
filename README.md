@@ -1,3 +1,3 @@
-These logs briefly summary what have I done at work.
+These logs briefly summary what I have done at work.
 
 They will be updated every week, hopefully.
